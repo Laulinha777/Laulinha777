@@ -1,6 +1,6 @@
 ## Oii, eu sou Laura Cardoso!
  ⛰🌿🌻☀️☁
-- Atualmente estudante de Eng. de Sotware
+- Atualmente estudante de Eng. de Software
 - Estudando Desenvolvimento Web e Python
 
  <div style="display: inline_block"><br> 
