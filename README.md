@@ -13,7 +13,7 @@
    ##
 
 <p >
-  <img src="https://github.com/user-attachments/assets/07dc9f70-d9d0-49a5-8363-92a48b6013bc" alt="GIF pequeno" width="200px">
+  <img src="https://github.com/user-attachments/assets/0b880703-403e-4ad0-854c-6de939f29746" alt="GIF pequeno" width="250px">
 </p>
    <div>
       <a href="https://instagram.com/laurafernandescardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
