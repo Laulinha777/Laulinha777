@@ -1,8 +1,13 @@
-## Oii, eu sou Laura Cardoso!
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola,+Bem+vindos+hehe;Me+chamo+Laura+Fernandes!🌻&center=true&width=500&color=FFFF00)](https://git.io/typing-svg)
+
  ⛰🌿🌻☀️☁
+</div>
+
+
 - Atualmente estudante de Eng. de Software
 - Estudando Desenvolvimento Web e Python
-
 
  <div style="display: inline_block"><br> 
    <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,6 +18,7 @@
    ##
 
 <p >
+ 
   <img src="https://github.com/user-attachments/assets/0b880703-403e-4ad0-854c-6de939f29746" alt="GIF pequeno" width="250px">
 </p>
    <div>
