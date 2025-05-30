@@ -9,7 +9,7 @@
 ### Bem vindos, Devs!!
 - ☕Tenho 19 anos, sou estudante de Engenharia de Software e atualmente estou no 3º semestre da faculdade.
   
-- 📚Me considero uma grande entusiasta das áreas de tecnologia, em especial robótica e desenvolvimento web. Nos momentinhos vagos posso ser encontrada atrás de algum livro:P
+- 📚Me considero uma grande entusiasta das áreas de tecnologia, em especial robótica e desenvolvimento web. Nos momentinhos vagos posso ser encontrada atrás de algum livro kk:P
 
 ### 📱 Sociais:
 <div>
