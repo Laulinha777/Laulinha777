@@ -6,11 +6,10 @@
 
 </div>
 
-### Bem vindos, Devs!!
-- ☕Tenho 19 anos, sou estudante de Engenharia de Software e atualmente estou no 3º semestre da faculdade.
-  
-- 📚Me considero uma grande entusiasta das áreas de tecnologia, em especial robótica e desenvolvimento web. Nos momentinhos vagos posso ser encontrada atrás de algum livro kk:P
-
+### 🐥Bem vindos, Devs!!
+Tenho 19 anos, sou estudante de Engenharia de Software, e uma grande entusiasta das áreas de tecnologia, em especial 
+Robótica e Desenvolvimento Web.
+Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver algumas aventuras^^
 ### 📱 Sociais:
 <div>
   <a href="https://instagram.com/laurafernandescardoso" target="_blank">
