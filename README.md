@@ -8,19 +8,8 @@
 
 ### 🐥Bem vindos, Devs!!
 Tenho 19 anos, sou estudante de Engenharia de Software, e uma grande entusiasta das áreas de tecnologia, em especial 
-Robótica e Desenvolvimento Web.
-Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver algumas aventuras^^
-### 📱 Sociais:
-<div>
-  <a href="https://instagram.com/laurafernandescardoso" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/laura-cardoso-967872316" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lalinha.fc07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+Robótica e Desenvolvimento Web.  
+Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver algumas aventuras.^^
 
 -----
 <p align="center">
@@ -38,3 +27,15 @@ Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver
   <img align="center" alt="Laura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Laura-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
+
+### 📱 Sociais:
+<div>
+  <a href="https://instagram.com/laurafernandescardoso" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/laura-cardoso-967872316" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:lalinha.fc07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
