@@ -24,7 +24,6 @@
   </a>
 
 -----
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0b880703-403e-4ad0-854c-6de939f29746" alt="GIF pequeno" width="100px">
 </p>
