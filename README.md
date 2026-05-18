@@ -18,7 +18,7 @@ Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laulinha777&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&hide=stars,prs,issues" height="120px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laulinha777&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff" height="120x"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laulinha777&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff" height="120px"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
