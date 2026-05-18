@@ -16,10 +16,6 @@ Nos momentos vagos posso ser encontrada atrás de algum livro, ou tentando viver
   <img src="https://github.com/user-attachments/assets/0b880703-403e-4ad0-854c-6de939f29746" alt="GIF pequeno" width="180px">
 </p>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laulinha777&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=ffffff&hide=stars,prs,issues" height="120px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laulinha777&layout=compact&theme=tokyonight&title_color=FFD700&text_color=ffffff" height="120px"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
